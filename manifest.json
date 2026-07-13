@@ -1,0 +1,10 @@
+{
+    "name": "JBenAvil",
+    "icons": [
+      {
+        "src": "static/iconJbenavil.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
